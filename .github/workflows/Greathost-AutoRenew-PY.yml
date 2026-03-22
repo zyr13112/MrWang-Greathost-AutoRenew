@@ -41,8 +41,8 @@ jobs:
         env:
           GREATHOST_EMAIL: ${{ secrets.GREATHOST_EMAIL }}
           GREATHOST_PASSWORD: ${{ secrets.GREATHOST_PASSWORD }}
-          TELEGRAM_BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.CHAT_ID }}    
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}    
           PROXY_URL: ${{ secrets.PROXY_URL }}
         run: python greathost.py
 
