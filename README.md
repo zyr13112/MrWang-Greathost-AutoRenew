@@ -1,13 +1,13 @@
 # GreatHost 自动续期状态
 
-🈵 **GreatHost 已达上限**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: ree
 🆔 ID: `984984c9-4595-404d-94bf-35aaec976630`
-⏰ 剩余时间: 108h
+⏰ 增加时间: 97 ➔ 109h
 🚀 服务器状态: 🟢 Running
-💡 提示: No puedes renovar más de 5 días acumulados
-🌐 落地 IP: `172.178.119.37`
-📅 时间: 2026/03/26 09:49:16
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `57.151.123.243`
+📅 时间: 2026/03/26 20:59:25
 
-> 最近更新: 2026/03/26 09:49:16
+> 最近更新: 2026/03/26 20:59:25
