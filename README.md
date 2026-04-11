@@ -1,14 +1,13 @@
 # GreatHost 自动续期状态
 
-🚨 **GreatHost 脚本报错**
+🎉 **GreatHost 续期成功**
 
 📛 服务器名称: ree
-❌ 故障: `Message: 
-Stacktrace:
-#0 0x564ba7484a6a <unknown>
-#1 0x564ba6e93ab5 <unknown>
-#2 0x564ba6ee6676 <unk`
-🌐 代理状态: 已尝试直连
-📅 时间: 2026/04/10 20:56:56
+🆔 ID: `984984c9-4595-404d-94bf-35aaec976630`
+⏰ 增加时间: 72 ➔ 84h
+🚀 服务器状态: ❓ unknown
+💡 提示: Servidor gratuito renovado correctamente
+🌐 落地 IP: `20.102.223.130`
+📅 时间: 2026/04/11 09:46:25
 
-> 最近更新: 2026/04/10 20:56:56
+> 最近更新: 2026/04/11 09:46:25
